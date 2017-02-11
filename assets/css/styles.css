@@ -1,0 +1,21 @@
+html {
+  background-color: #eee;
+}
+
+h1 {
+ color: #222;
+}
+
+nav {
+  list-style: none;
+  
+}
+
+nav li {
+  float: left;
+}
+
+main {
+  margin: 0 auto;
+  width: 60%;
+}
